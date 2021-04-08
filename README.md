@@ -6,4 +6,4 @@ The use of artificial vision is a common practice within large industries, howev
 # Authors
 * Eliza Thaiz Bolanos Barragan
 * Luisa Fernanda Velasco Rivera ( [Github Account](https://github.com/fersvr) )
-* Raul David Dominguez Sanchez
+* Raul David Dominguez Sanchez ( [Github Account](https://github.com/rauldds/) )
